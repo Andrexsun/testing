@@ -1,3 +1,3 @@
 # testing
 
-Check, is it updated?
+Check, is it updated? - Yes, all right! :)
